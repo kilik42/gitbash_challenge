@@ -1,0 +1,20 @@
+HANCOCK ACCOUNT LOCKOUT INCIDENT
+Student/Team:
+Date:
+
+1. What happened?
+
+
+2. Which accounts or systems appear affected?
+
+
+3. What evidence supports your conclusion?
+
+
+4. What remains uncertain?
+
+
+5. Recommended next actions:
+
+
+6. How did your Bash script make the investigation faster or more reliable?
